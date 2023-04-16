@@ -10,4 +10,4 @@ Le fonctionnement de ce code est le suivant :
 * Lorsqu'une case à cocher est cochée/décochée, une requête AJAX est envoyée au serveur pour mettre à jour l'état de la tâche correspondante dans la base de données.
 * La page se recharge automatiquement après chaque mise à jour de l'état pour afficher les modifications.
 
-[todolist](https://github.com/HugoTby/ToDoList/blob/main/todolist_view.png)
+![todolist](https://github.com/HugoTby/ToDoList/blob/main/todolist_view.png)
